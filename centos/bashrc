@@ -19,3 +19,4 @@ if [ -f /etc/bash_completion.d/git ]; then
 fi
 
 # User specific aliases and functions
+alias vimr='vim -R'
